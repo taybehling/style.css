@@ -1,0 +1,4 @@
+p {
+    text-again: center
+}
+    
