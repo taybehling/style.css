@@ -4,10 +4,16 @@ body {
 
 h1 { 
     text-align: center
+{
+   
 p {
     text-align: center;
 }
 
-em strong {
-    color: red;
+#missao {
+    font-size: 20px"
 }
+
+em strong {
+    color: #FF0000;
+{
