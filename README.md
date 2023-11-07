@@ -1,4 +1,5 @@
 p {
-    text-again: center
+    text-again: center;
+    background: #cccccc
 }
     
